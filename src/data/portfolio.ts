@@ -158,7 +158,7 @@ export const experience = [
     title: 'Software Engineer Intern',
     company: 'Hibara Corporation',
     location: 'Japan',
-    period: 'MAY 2025 - JULY 2024',
+    period: 'MAY 2025 - JULY 2025',
     description: 'Developed an IoT-based wastewater color detection system using Raspberry Pi, AS7265x sensor, Python, and SQL, achieving 95% accuracy and reducing manual inspection time by 80% through AI-based spectral analysis and automated alerts.',
     type: 'internship',
   },

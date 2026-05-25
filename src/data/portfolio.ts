@@ -7,7 +7,7 @@ export const portfolioInfo = {
   email: 'ashishupadhyay7353@gmail.com',
   location: 'India',
   about: `Computer Science student passionate about building scalable systems and  platforms with strong problem-solving skills. I specialize in creating efficient, user-friendly applications that solve real-world problems.`,
-  resumeUrl:  'https://drive.google.com/uc?id=1A057HSJXaoSN9TP-8CCkjpaIsO_e-rle&export=download',
+  resumeUrl:  'https://drive.google.com/uc?export=download&id=19AhfTFZUCWUfO8JwnbWs4zCf9JSv3Fwu', 
   socialLinks: {
     github: 'https://github.com/ashish-upadhyay2004',
     linkedin: 'https://www.linkedin.com/in/ashish-upadhyay-95901b24b/',
